@@ -19,6 +19,11 @@ $$ Q = CV $$
 
 $$ Q = 2 \times 10^{-12} \times 1 $$
 
-$$ Q = 2 \text{picocoulombs} $$
+$$ Q = 2\ \text{picocoulombs} $$
 
+If we reduce the capacitance of a transistor or wire, we need less charge to change its voltage.
+
+Less charge movement generally means less energy consumed during switching.
+
+Remember: \(Q=CV\) tells us how much charge must be moved to establish a given voltage across a capacitance.
 
