@@ -18,3 +18,7 @@ Suppose:
 $$ Q = CV $$
 
 $$ Q = 2 \times 10^{-12} \times 1 $$
+
+$$ Q = 2 \text{picocoulombs} $$
+
+
