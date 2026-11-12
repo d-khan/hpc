@@ -16,4 +16,5 @@ Suppose:
 * We want to raise its voltage from 0 V to 1 V.
 
 $$ Q = CV $$
-$$ Q = 2 \times 10^{-12} \times 1
+
+$$ Q = 2 \times 10^{-12} \times 1 $$
